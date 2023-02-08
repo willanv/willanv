@@ -23,6 +23,3 @@
 </div>
 
   ##
-
-
-![snake gif](https://github.com/willanv/willanv/blob/output/github-contribution-grid-snake.svg)
