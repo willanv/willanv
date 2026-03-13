@@ -1,25 +1,54 @@
-## Olá, me chamo Willian.
+# Olá, eu sou o Willian Carvalho Velasco
 
-### 💻Tech Stack
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end e interesse em Java, Node.js, banco de dados e construção de soluções web.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  </br>
-  
-  <img height="198px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willanv&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="willai" />
+## Sobre mim
 
-  ---
+- Atualmente cursando ADS
+- Interesse em desenvolvimento back-end
+- Estudando Java, JavaScript, C e SQL
+- Experiência com Git/GitHub, Node.js e MySQL
+- Construindo projetos para evoluir prática e portfólio
 
-### 👥Social networks
+## Tecnologias
 
-<div>
-  <a href="https://www.linkedin.com/in/willian-velasco-b25a7b243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/willanvv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-          badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+### Linguagens
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
 
-  ##
+### Ferramentas e Tecnologias
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+
+## Projetos em destaque
+
+### Portfólio Pessoal
+Site responsivo criado para apresentar projetos e habilidades.
+
+- HTML5, CSS3 e JavaScript
+- Contador interativo
+- Landing page temática
+- Deploy com GitHub Pages
+
+Repositório: [Projeto-Pessoal](https://github.com/willanv/Projeto-Pessoal)
+
+## Estatísticas do GitHub
+
+![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=willanv&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willanv&layout=compact&theme=tokyonight)
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/willian-velasco-b25a7b243/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/willanv)
+
+## Objetivo
+
+Busco oportunidade de estágio na área de desenvolvimento back-end, para aplicar e evoluir meus conhecimentos em programação, banco de dados e desenvolvimento de sistemas.
